@@ -11,7 +11,7 @@ Uploaded on GitHub is the whole Android Studio project. If you wish to develop o
 Make sure to change the app name accordingly.
 
 # Download APK
-[Download]("assets/SyncRunUs-v1.0.0-beta.apk")
+SyncRunUs is currently Beta. [Download Here]("assets/SyncRunUs-v1.0.0-beta.apk")
 
 ## Screenshots
 ![SyncRunUs screenshots](assets/screens.jpeg)
