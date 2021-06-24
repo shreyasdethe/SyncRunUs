@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SyncRunUs</string>
+    <string name="register">Register</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="height">height (in cm)</string>
+    <string name="welcome">Welcome, %1s!</string>
+    <string name="stepsToday">steps taken today</string>
+    <string name="kmsToday">kms travelled today</string>
+    <string name="createSession">Create new session</string>
+    <string name="joinSession">Join a session</string>
+    <string name="permissionDenied">Permission Denied! App won\'t work</string>
+    <string name="permissionGranted">Permission Granted!</string>
+    <string name="emptyFields">Fields cannot be empty</string>
+    <string name="heightWrong">Invalid height entered</string>
+    <string name="shareCode">%1d</string>
+    <string name="shareWithFriend">Share this code with your friend</string>
+    <string name="getFromFriend">Ask your friend for the code</string>
+    <string name="sessionCode">Session code</string>
+    <string name="roomHeader">Room %1s %2s</string>
+    <string name="startSession">Start Session!</string>
+    <string name="stopSession">Stop Session</string>
+    <string name="stepsTaken">steps taken</string>
+    <string name="kmsTravelled">kms travelled</string>
+    <string name="otherNotJoined">Other user has not joined yet</string>
+</resources>
