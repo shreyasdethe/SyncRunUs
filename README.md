@@ -10,5 +10,8 @@ SyncRunUs uses MQTT for communication.
 Uploaded on GitHub is the whole Android Studio project. If you wish to develop on this project, clone the whole repository and open it in Android Studio.  
 Make sure to change the app name accordingly.
 
+# Download APK
+[Download]("assets/SyncRunUs-v1.0.0-beta.apk")
+
 ## Screenshots
 ![SyncRunUs screenshots](assets/screens.jpeg)
