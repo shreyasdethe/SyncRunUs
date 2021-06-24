@@ -10,4 +10,4 @@ Uploaded on GitHub is the whole Android Studio project. If you wish to develop o
 Make sure to change the app name accordingly.
 
 ## Screenshots
-![SyncRunUs screenshots](assets/screens.jpg)
+![SyncRunUs screenshots](assets/screens.jpeg)
